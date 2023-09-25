@@ -4,7 +4,7 @@
 
 This Java program implements the classic game of Bulls and Cows, where players attempt to guess a secret four-digit number through a series of guesses while receiving feedback on the number of correct digits in the correct position (bulls) and the correct digits in the wrong position (cows).
 
-To play the game, you need to copy the `BullsAndCows.java` file from this repository and compile it using the Java Development Kit (JDK) in the command prompt or terminal.
+To play the game, you need to copy the `BullsAndCows.java` file from the src folder in this repository and compile it using the Java Development Kit (JDK) in the command prompt or terminal.
 
 ## Getting Started
 
