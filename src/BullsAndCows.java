@@ -1,7 +1,7 @@
 // Created by Pooria, November 2022
 
-import java.util.Scanner;
 import java.util.Random;
+import java.util.Scanner;
 
 
 public class BullsAndCows {
@@ -180,6 +180,4 @@ public class BullsAndCows {
         }
         return false;
     }
-
-
 }
